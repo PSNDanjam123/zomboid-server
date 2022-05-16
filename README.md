@@ -2,8 +2,6 @@
 Personal Zomboid Server
 
 ## Setup
-Run `setup.sh` to configure the directories
+Run `setup.sh` to configure the data directory permissions
 
-## Environment Variables
- - SERVER_NAME
- - ADMIN_PASSWORD
+For full instructions see here [afey/zomboid](https://hub.docker.com/r/afey/zomboid)
