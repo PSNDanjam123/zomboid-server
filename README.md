@@ -1,8 +1,9 @@
 # zomboid-server
 Personal Zomboid Server
 
+## Setup
+Run `setup.sh` to configure the directories
+
 ## Environment Variables
- - UID
- - GID
  - SERVER_NAME
  - ADMIN_PASSWORD
