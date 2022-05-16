@@ -2,6 +2,7 @@ version: '2.4'
 
 services:
   project-zomboid:
+    user: "${UID}:${GID}"
     image: afey/zomboid
     restart: unless-stopped
     environment:
