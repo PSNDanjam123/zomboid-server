@@ -14,5 +14,5 @@ services:
       - "16262-16272:16262-16272"
       - "27015:27015"
     volumes:
-      - ./data:/server-data
-      - ./config:/server-files
+      - ./data:/server-data/
+      - ./config:/server-files/
